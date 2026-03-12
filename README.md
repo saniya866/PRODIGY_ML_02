@@ -1,9 +1,9 @@
 # PRODIGY_ML_02
-"K-Means Clustering model to segment mall customers based on annual income and spending patterns (Task 02)."
+K-Means Clustering model to segment mall customers based on annual income and spending patterns (Task 02).
 # Task 02: Customer Segmentation using K-Means Clustering
 
 ## 📌 Project Overview
-This project focuses on **Unsupervised Learning** by grouping customers of a retail mall based on their spending habits and annual income. The goal is to identify distinct customer segments to help businesses tailor their marketing strategies.
+This project focuses on Unsupervised Learning by grouping customers of a retail mall based on their spending habits and annual income. The goal is to identify distinct customer segments to help businesses tailor their marketing strategies.
 
 ## 🛠️ Tech Stack
 * **Language:** Python
@@ -12,7 +12,7 @@ This project focuses on **Unsupervised Learning** by grouping customers of a ret
 
 ## 📊 Key Steps
 1. **Data Exploration:** Analyzed the Mall Customers dataset.
-2. **Elbow Method:** Used WCSS (Within-Cluster Sum of Squares) to find the optimal number of clusters (**K=5**).
+2. **Elbow Method:** Used WCSS (Within-Cluster Sum of Squares) to find the optimal number of clusters (K=5).
 3. **Model Training:** Applied the K-Means algorithm to segment the data.
 4. **Visualization:** Created a scatter plot to visualize the 5 distinct customer groups and their centroids.
 
